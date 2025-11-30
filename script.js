@@ -1,5 +1,5 @@
 let current = 1;
-const total = 36;          // tumhari 36 images
+const total = 88;          // tumhari 36 images
 const img = document.getElementById("spinImage");
 
 function updateImage() {
